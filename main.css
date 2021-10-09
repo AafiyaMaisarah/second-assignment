@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(201, 224, 224);
+
+}
+h2{
+    color:brown;
+    font-size:40px ;
+}
+h3{
+    color: darkslateblue;
+}
+.firstselection{
+    font-size:30px;
+    color:red;
+}
+.secondselection{
+    font-size: 20px;
+    color:darkmagenta
+}
+.last{
+    font-size: 30px;
+    color: firebrick;
+}
+#lastparagraph{
+    font-size: large;
+    color: forestgreen;
+    background-color: darkred;
+}
